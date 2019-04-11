@@ -1,0 +1,21 @@
+C:\Users\rydac\source\repos\compagnieX\compagnieX\bin\Debug\compagnieX.exe.config
+C:\Users\rydac\source\repos\compagnieX\compagnieX\bin\Debug\compagnieX.exe
+C:\Users\rydac\source\repos\compagnieX\compagnieX\bin\Debug\compagnieX.pdb
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.csprojAssemblyReference.cache
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.Form1.resources
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.Properties.Resources.resources
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.csproj.GenerateResource.cache
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.csproj.CoreCompileInputs.cache
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.exe
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.pdb
+C:\Users\rydac\source\repos\compagnieX\compagnieX\obj\Debug\compagnieX.Form2.resources
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\bin\Debug\compagnieX.exe.config
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\obj\Debug\compagnieX.exe
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\obj\Debug\compagnieX.pdb
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\bin\Debug\compagnieX.exe
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\bin\Debug\compagnieX.pdb
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\obj\Debug\compagnieX.csprojResolveAssemblyReference.cache
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\obj\Debug\compagnieX.Form1.resources
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\obj\Debug\compagnieX.Form2.resources
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\obj\Debug\compagnieX.Properties.Resources.resources
+\\cs.cspi.qc.ca\ele\MTL-N\mortajilr\Documents\Visual Studio 2015\Projects\CompagnieX\compagnieX\obj\Debug\compagnieX.csproj.GenerateResource.Cache
